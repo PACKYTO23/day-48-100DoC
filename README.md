@@ -5,3 +5,4 @@ Day 48 - Selenium Webdriver
 
 Specific (and short) notes and titles written in main.py. 
   Unfinished practice (03/06/2024); update tomorrow.
+    Finished practice (04/06/2024); updated.
